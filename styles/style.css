@@ -1,0 +1,50 @@
+body{
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 20px;
+}
+
+h1, h2{
+    color: gray;
+    text-align: center;
+}
+
+p{
+    font-family: monospace;
+    color: #817f7f;
+}
+
+span{
+    font-size: medium;
+    font-weight: bold;
+}
+
+.marco{
+    border:10px dotted #817f7f;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+img{
+    margin: 0 auto;
+    width: 100%;
+}
+
+ul{
+    list-style: lower-greek;
+    padding-left: 20px;
+}
+
+li{
+    margin: 5px;
+    color: #817f7f;
+}
+
+footer{
+    margin-top: 20px;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
