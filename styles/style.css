@@ -48,3 +48,13 @@ footer{
     color: white;
     text-align: center;
 }
+
+button:hover{
+    background-color: #817f7f;
+    color:white;
+    border: none;
+    padding: 5px 8px;
+    text-align: center;
+    font-size: 12px;
+    border-radius: 10px;
+}
